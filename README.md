@@ -1,4 +1,3 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/luccascamargo/874afcc826847074c89b061cdfe3d97f/raw/75168489b76ec2f3f65c5ee02b6cddb89b9ca46c/githbugcard.svg"/>
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, me chamo Lucas Camargo</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luccascamargo&color=yellow" alt="Profile views" /> </p>
 
